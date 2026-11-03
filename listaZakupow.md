@@ -16,6 +16,18 @@ Idealne na początek imprezy i do podjadania w trakcie.
 - [ ] Tortille (do zrobienia szybkich wrapów) - 4 opakowania
 
 ## 🍔 Dania główne / Grill i Ciepły bufet
+Zależnie od tego, czy odpalamy grilla, czy zamawiamy/pieczemy na miejscu.
+- [ ] Karkówka w marynacie czosnkowej - 3 kg
+- [ ] Kiełbasa śląska / podwawelska - 4 kg
+- [ ] Szaszłyki (kurczak + warzywa) - 20 sztuk
+- [ ] Skrzydełka z kurczaka (w sosie BBQ) - 3 kg
+- [ ] Burgery wołowe (gotowe kotlety) - 20 sztuk
+- [ ] Bułki do burgerów (sezamowe i brioche) - 20 sztuk
+- [ ] Ser topiony w plastrach (Cheddar) do burgerów - 2 opakowania
+- [ ] Sałatka ziemniaczana (gotowa lub składniki: ziemniaki, majonez, ogórki, koper)
+- [ ] Sałatka grecka (mix sałat, feta, pomidorki koktajlowe, ogórek, oliwa)
+- [ ] Pieczywo: Bagietki czosnkowe (10 szt.), chleb wiejski (2 bochenki)
+- [ ] Sosy: Ketchup (łagodny i pikantny), Musztarda, Majonez, Sos BBQ, Sos czosnkowy
 
 ## 🥑 Opcje wegetariańskie i wegańskie
 
