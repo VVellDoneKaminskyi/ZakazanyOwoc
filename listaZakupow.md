@@ -76,6 +76,21 @@ Na przełamanie smaku i spadek cukru we krwi.
 - [ ] Owoce: winogrona, banany, truskawki (jeśli w sezonie), mandarynki
 
 ## 🍽️ Zastawa, logistyka i sprzęt imprezowy
+Zabezpieczenie techniczne imprezy.
+- [ ] Czerwone kubki "American Party" (do piwa i Beer Ponga) - 200 szt.
+- [ ] Przezroczyste kubeczki do shotów - 100 szt.
+- [ ] Talerzyki papierowe (duże na grilla) - 100 szt.
+- [ ] Talerzyki papierowe (małe na deser) - 50 szt.
+- [ ] Sztućce (widelce i noże - najlepiej z grubego plastiku lub drewna) - po 100 szt.
+- [ ] Papierowe słomki - 2 opakowania
+- [ ] Długie wykałaczki do szaszłyków
+- [ ] Węgiel drzewny lub brykiet na grilla - 15 kg
+- [ ] Rozpałka (w płynie lub kostkach) i długie zapałki
+- [ ] Tacki aluminiowe do pieczenia - 15 szt.
+- [ ] Ręczniki papierowe - 8 grubych rolek (będzie się lało!)
+- [ ] Serwetki papierowe - 4 paczki (najlepiej z motywem imprezowym)
+- [ ] Worki na śmieci 120L (wytrzymałe!) - 3 rolki
+- [ ] Worki na śmieci 60L - 2 rolki
 
 ## 🎈 Dekoracje i Atrakcje
 
