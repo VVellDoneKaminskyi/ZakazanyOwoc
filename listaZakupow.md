@@ -93,5 +93,13 @@ Zabezpieczenie techniczne imprezy.
 - [ ] Worki na śmieci 60L - 2 rolki
 
 ## 🎈 Dekoracje i Atrakcje
+Aby nadać odpowiedni klimat.
+- [ ] Duży baner "Koniec Studiów!" / "Inżynierowie!"
+- [ ] Balony z helem (czarno-złote)
+- [ ] Konfetti (najlepiej w tubach do wystrzelenia o północy)
+- [ ] Taśma klejąca, pinezki, nożyczki (do montażu dekoracji)
+- [ ] Pisaki do podpisywania kubków (żeby nikt nie gubił swojego drinka)
+- [ ] Piłeczki ping-pongowe do Beer Ponga - 10 szt.
+- [ ] Zestaw do karaoke (sprawdzić kable HDMI i mikrofony przed imprezą)
 
 ## 🧹 Zestaw ratunkowy "Dzień Po" (Niedziela)
