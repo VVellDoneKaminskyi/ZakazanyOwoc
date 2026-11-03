@@ -54,6 +54,18 @@ Niezbędne do drinków oraz dla kierowców i osób niepijących.
 - [ ] LÓD W KOSTKACH - absolutne minimum 15 kg (najlepiej zamówić dostawę w workach)
 
 ## 🍾 Alkohole
+Proporcje do ustalenia, budżet orientacyjny.
+- [ ] Jasne pełne / Lagery (np. Tyskie, Żywiec, Carlsberg) - 80 szt.
+- [ ] Piwa rzemieślnicze (IPA, APA - dla koneserów) - 20 szt.
+- [ ] Piwo bezalkoholowe (0.0%) - 15 szt.
+- [ ] Wódka czysta (0.5L) - 15 butelek
+- [ ] Wódki smakowe (cytrynówka, wiśniówka) - 5 butelek
+- [ ] Whisky (np. Jack Daniel's, Jameson) - 4 butelki
+- [ ] Gin (np. Seagrams, Gordon's) - 3 butelki
+- [ ] Rum (jasny do Mojito, ciemny do Cuba Libre) - 3 butelki
+- [ ] Wino białe półwytrawne/wytrawne - 5 butelek
+- [ ] Wino czerwone - 3 butelki
+- [ ] Szampan / Prosecco (do oficjalnego toastu za obronę!) - 6 butelek
 
 ## 🧁 Słodki stół
 
