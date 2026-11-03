@@ -30,6 +30,13 @@ Zależnie od tego, czy odpalamy grilla, czy zamawiamy/pieczemy na miejscu.
 - [ ] Sosy: Ketchup (łagodny i pikantny), Musztarda, Majonez, Sos BBQ, Sos czosnkowy
 
 ## 🥑 Opcje wegetariańskie i wegańskie
+Pamiętamy o wszystkich członkach zespołu!
+- [ ] Kiełbaski i burgery roślinne (Beyond Meat lub podobne) - 10 sztuk
+- [ ] Tofu wędzone (do szaszłyków) - 4 kostki
+- [ ] Hummus (klasyczny, z suszonymi pomidorami) - 3 opakowania
+- [ ] Słupki warzywne do hummusu (marchew, seler naciowy, ogórek)
+- [ ] Wegan majonez i wegański ser
+- [ ] Sałatka tabbouleh (z kaszą bulgur)
 
 ## 🍻 Napoje i Mixery (Bezalkoholowe)
 
