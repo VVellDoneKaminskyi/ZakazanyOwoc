@@ -39,6 +39,19 @@ Pamiętamy o wszystkich członkach zespołu!
 - [ ] Sałatka tabbouleh (z kaszą bulgur)
 
 ## 🍻 Napoje i Mixery (Bezalkoholowe)
+Niezbędne do drinków oraz dla kierowców i osób niepijących.
+- [ ] Woda niegazowana - 4 zgrzewki (24 x 1.5L)
+- [ ] Woda gazowana - 2 zgrzewki (12 x 1.5L)
+- [ ] Coca-Cola / Pepsi - 15 butelek (2L)
+- [ ] Coca-Cola Zero / Pepsi Max - 10 butelek (2L)
+- [ ] Sprite / 7Up - 8 butelek (2L)
+- [ ] Tonik (Kinley lub Schweppes) - 10 butelek (1L) - konieczne do ginu!
+- [ ] Sok pomarańczowy (100%) - 15 litrów
+- [ ] Sok jabłkowy - 10 litrów
+- [ ] Sok z czarnej porzeczki i żurawinowy (do drinków) - po 4 litry
+- [ ] Napoje energetyczne (Red Bull / Monster) - zgrzewka 24 szt.
+- [ ] Syropy barmańskie (Grenadina, Blue Curaçao)
+- [ ] LÓD W KOSTKACH - absolutne minimum 15 kg (najlepiej zamówić dostawę w workach)
 
 ## 🍾 Alkohole
 
