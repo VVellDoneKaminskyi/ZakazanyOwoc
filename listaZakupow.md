@@ -68,6 +68,12 @@ Proporcje do ustalenia, budżet orientacyjny.
 - [ ] Szampan / Prosecco (do oficjalnego toastu za obronę!) - 6 butelek
 
 ## 🧁 Słodki stół
+Na przełamanie smaku i spadek cukru we krwi.
+- [ ] Tort główny z napisem "Udało się! Inżynierzy 2026!"
+- [ ] Muffinki czekoladowe i waniliowe - 30 szt.
+- [ ] Żelki (różne rodzaje: misie, kwaśne kable) - 1 kg
+- [ ] Cukierki M&M's i Skittles - 4 duże paczki
+- [ ] Owoce: winogrona, banany, truskawki (jeśli w sezonie), mandarynki
 
 ## 🍽️ Zastawa, logistyka i sprzęt imprezowy
 
