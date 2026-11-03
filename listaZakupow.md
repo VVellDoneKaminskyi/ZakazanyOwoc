@@ -103,3 +103,12 @@ Aby nadać odpowiedni klimat.
 - [ ] Zestaw do karaoke (sprawdzić kable HDMI i mikrofony przed imprezą)
 
 ## 🧹 Zestaw ratunkowy "Dzień Po" (Niedziela)
+Najważniejsza sekcja dla organizatorów.
+- [ ] Kawa mielona i ziarnista (dużo!)
+- [ ] Mleko do kawy - 3 litry
+- [ ] Herbata (czarna i miętowa na żołądek)
+- [ ] Leki przeciwbólowe (Ibuprofen / Paracetamol) - 2 opakowania
+- [ ] Elektrolity do rozpuszczania w wodzie
+- [ ] Mop i płyn do podłóg
+- [ ] Płyn do naczyń i gąbki - 2 zestawy
+- [ ] Tabletki do zmywarki (jeśli na miejscu jest zmywarka)
