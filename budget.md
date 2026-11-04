@@ -16,10 +16,3 @@ Impreza dla 30 osób, około 6 godzin.
 ## Podsumowanie
 
 - Razem: 3 960 zł
-- Na osobę: 132 zł
-
-## Uwagi
-
-- Ceny są orientacyjne.
-- Menu powinno uwzględniać alergie i opcje wegetariańskie.
-- Impreza jest bezalkoholowa.
