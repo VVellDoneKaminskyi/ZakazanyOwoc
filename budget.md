@@ -6,3 +6,5 @@ Impreza dla 30 osób, około 6 godzin.
 
 - Wynajem sali — 800 zł
 - Sprzątanie — 200 zł
+- Jedzenie — 1 050 zł
+- Napoje, woda, kawa i herbata — 600 zł
