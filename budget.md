@@ -10,3 +10,5 @@ Impreza dla 30 osób, około 6 godzin.
 - Napoje, woda, kawa i herbata — 600 zł
 - Nagłośnienie — 300 zł
 - Quiz i gry — 400 zł
+- Dekoracje — 250 zł
+- Rezerwa — 360 zł
