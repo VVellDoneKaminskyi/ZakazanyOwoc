@@ -8,3 +8,5 @@ Impreza dla 30 osób, około 6 godzin.
 - Sprzątanie — 200 zł
 - Jedzenie — 1 050 zł
 - Napoje, woda, kawa i herbata — 600 zł
+- Nagłośnienie — 300 zł
+- Quiz i gry — 400 zł
