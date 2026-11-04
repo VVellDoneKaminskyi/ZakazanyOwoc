@@ -19,5 +19,6 @@ Krótka lista działań na wypadek problemów podczas przygotowań lub imprezy.
 
 - Wyznaczyć organizatora, do którego można zgłaszać problemy.
 - W nagłej sytuacji zadzwonić pod numer 112 i powiadomić obsługę lokalu.
+- Ustalić punkt zbiórki na zewnątrz i sprawdzić, czy wszyscy opuścili lokal.
 - Zapewnić dostęp do wody i apteczki.
 - Przed imprezą przypomnieć uczestnikom o bezpiecznym powrocie do domu.
