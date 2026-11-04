@@ -12,3 +12,8 @@ Impreza dla 30 osób, około 6 godzin.
 - Quiz i gry — 400 zł
 - Dekoracje — 250 zł
 - Rezerwa — 360 zł
+
+## Podsumowanie
+
+- Razem: 3 960 zł
+- Na osobę: 132 zł
