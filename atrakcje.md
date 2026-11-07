@@ -21,6 +21,6 @@
 
 -Przemowa(Zaprosic wykladowce z warsztatow programowania oraz rektora)
 -Zawody z gier (Mortal Kombat/Quake 3 Arena/MOBa); arm wrestling;
--konkurs na stworzenie video mema z wykladowcami za pomoca Sztucznej inteligencji
+-konkurs na stworzenie mema za pomoca sztucznej inteligencji;
 -konkurs na wlamanie kamer internetowych (odleglosc i najciekawijsze miejsce)
 -Salut pirotechnika
