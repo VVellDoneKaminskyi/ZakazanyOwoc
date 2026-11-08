@@ -22,4 +22,3 @@ Impreza dla 30 osób, około 6 godzin.
 
 - Ceny są orientacyjne.
 - Menu powinno uwzględniać alergie i opcje wegetariańskie.
-- Impreza jest bezalkoholowa.
